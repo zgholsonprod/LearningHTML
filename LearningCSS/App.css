@@ -1,0 +1,25 @@
+h1 { 
+	/*color : rgba(0, 255, 0, .5); 
+	border-color purple: 
+	border-width 5px;
+	border-style:  solid;*/
+
+	border: 8px purple dashed;
+}
+li {
+	color : #0000ff;
+}
+h4 {
+	color : olivedrab;
+}
+h4 {
+	color : olivedrab;
+	background: rgb(255, 0, 0);
+}
+
+body{
+	/*background: url(https://i.imgur.com/q77o6Ul.gif);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: green;
+}

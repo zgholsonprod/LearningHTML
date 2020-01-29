@@ -1,0 +1,16 @@
+body { 
+	//background: orange;
+ }
+
+ li{
+ 	border: solid;
+ }
+
+ #eat{
+ 	border: dashed;
+ 	background: green;
+ }
+
+ .completed{
+ 	text-decoration: line-through;
+ }
