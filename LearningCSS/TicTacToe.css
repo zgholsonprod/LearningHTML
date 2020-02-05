@@ -1,0 +1,53 @@
+/*Font family	*/
+body{
+	font-size: 10 px;
+}
+
+h1{
+	font-size: 5.0em;
+	text-align: center;
+	text-decoration: line-through;
+}
+
+p{
+	font-family: 'Zhi Mang Xing', cursive;
+	font-size: 2.0em;
+	font-weight: bold;
+	line-height: 2;
+	text-align: center;
+	text-decoration: underline;
+	border: 2px solid blue;
+	width: 50%;
+	padding: 10px;
+	margin: 0 auto;
+	//margin: 0 auto 0 auto;
+	//margin-left: 100px;
+	//margin-bottom: 50px;
+	//margin: 10px 40px 500px 100px;
+}
+
+span{
+	font-size: 2.0em;
+}
+
+table{
+	//border: 1px solid black;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+
+}
+
+.horizontal{
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+.vertical{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+td{
+	width: 100px;
+	height: 100px;
+}
+

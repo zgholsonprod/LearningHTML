@@ -1,0 +1,37 @@
+body{
+	border: 10px solid #bdc3c7;
+	width: 80%;
+	margin: auto;
+	max-width: 700px;
+	padding: 10px;
+}
+
+.date{
+	color: #3498db;
+	font-family: source sans pro;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+}
+
+p{
+	font-family: raleway;
+}
+
+.firstParagraph{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 4px;
+}
+
+h2{
+	font-family: raleway;	
+	text-transform: capitalize;
+	font-weight: 800;
+	color: #2C3E50;
+	font-size: 30px;
+}
+
+hr{
+	color: #bdc3c7;
+}
