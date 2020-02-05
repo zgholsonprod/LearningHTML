@@ -11,7 +11,7 @@ body{
 	font-family: source sans pro;
 	font-weight: 800;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 0.2rem;
 
 }
 
@@ -29,9 +29,13 @@ h2{
 	text-transform: capitalize;
 	font-weight: 800;
 	color: #2C3E50;
-	font-size: 30px;
+	font-size: 2.0rem;
 }
 
 hr{
 	color: #bdc3c7;
+}
+
+.post{
+	margin-bottom: 20px;
 }
